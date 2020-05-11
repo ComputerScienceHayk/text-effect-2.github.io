@@ -1,14 +1,8 @@
-/*
-  Particle Text
-  Johan Karlsson 2016-04-03
-*/
-
 var settings = {
   startDelay: 60,
   duration: 300,
   text: "SOER",
   textSize: 180,
-  //easeInOutCubic, easeOutCubic, easeOutBack or easeOutBounce
   easing: "easeInOutCubic" };
 
 
